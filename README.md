@@ -3,7 +3,8 @@
 This project was carried out as part of the SAS TOOLS academic course during the winter semester of 2024. The goal of the project was to develop a prototype analytical and reporting system for managing an airline.
 
 As part of the project, the following data model was created:
-[image]
+
+![](https://github.com/PiotrDS/Analytical-and-Reporting-System-for-an-Airline-Using-SAS-Software/blob/main/dataModel.png)
 
 Additionally, a set of scripts was developed, covering the following functionalities:
 
