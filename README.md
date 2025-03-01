@@ -4,7 +4,7 @@ This project was carried out as part of the SAS TOOLS academic course during the
 
 As part of the project, the following data model was created:
 
-![](https://github.com/PiotrDS/Analytical-and-Reporting-System-for-an-Airline-Using-SAS-Software/blob/main/dataModel.png)
+![](./dataModel.png)
 
 Additionally, a set of scripts was developed, covering the following functionalities:
 
