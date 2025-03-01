@@ -1,4 +1,4 @@
-# Analytical-and-Reporting-System-for-an-Airline-Using-SAS-Software
+# :bar_chart: Analytical and Reporting System for an Airline Using SAS Software :airplane:
 
 This project was carried out as part of the SAS TOOLS academic course during the winter semester of 2024. The goal of the project was to develop a prototype analytical and reporting system for managing an airline.
 
